@@ -48,10 +48,7 @@ The dashboard includes the following visualizations and KPIs:
 
 ---
 
-## 📷 Screenshots (optional)
-
-You can add 2–3 screenshots of your dashboard here using:
+## 📷 Screenshots 
 
 ```markdown
-![Dashboard Overview](images/dashboard_overview.png)
-![Agent Performance](images/agent_performance.png)
+![Dashboard Overview](https://github.com/Apurv-Shinde11/Live-chat-tracker-dashboard/blob/main/Screenshot%202025-08-03%20134404.png)
